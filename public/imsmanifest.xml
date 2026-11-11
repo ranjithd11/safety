@@ -1,0 +1,156 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="ACG_SAFETY_ENV_PILOT_2026" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+  </metadata>
+  <organizations default="ACG_ORG">
+    <organization identifier="ACG_ORG">
+      <title>Emergency Preparedness &amp; Environmental Awareness (ACG Safety &amp; Environment)</title>
+      <item identifier="ITEM_1" identifierref="RESOURCE_1">
+        <title>Emergency Preparedness &amp; Environmental Awareness (ACG Safety &amp; Environment)</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="assets/index-B3_BrDtq.css"/>
+      <file href="assets/index-kIH0cdFB.js"/>
+      <file href="favicon.svg"/>
+      <file href="icons.svg"/>
+      <file href="index.html"/>
+      <file href="media/README.txt"/>
+      <file href="media/img/assembly-bg.webp"/>
+      <file href="media/img/bg-gate.webp"/>
+      <file href="media/img/disposal-1.webp"/>
+      <file href="media/img/disposal-2.webp"/>
+      <file href="media/img/disposal-3.webp"/>
+      <file href="media/img/emerg-electrocution.webp"/>
+      <file href="media/img/emerg-etp.webp"/>
+      <file href="media/img/emerg-fire.webp"/>
+      <file href="media/img/emerg-pressure.webp"/>
+      <file href="media/img/emerg-spillage.webp"/>
+      <file href="media/img/env-bush.webp"/>
+      <file href="media/img/env-flowerbed.webp"/>
+      <file href="media/img/env-grass.webp"/>
+      <file href="media/img/env-parrot.webp"/>
+      <file href="media/img/env-plastic.webp"/>
+      <file href="media/img/env-puddle.webp"/>
+      <file href="media/img/env-rabbit.webp"/>
+      <file href="media/img/env-rock-big.webp"/>
+      <file href="media/img/env-rock-mid.webp"/>
+      <file href="media/img/env-rock-small.webp"/>
+      <file href="media/img/env-sapling.webp"/>
+      <file href="media/img/env-smoke-l.webp"/>
+      <file href="media/img/env-smoke-m.webp"/>
+      <file href="media/img/env-smoke-s.webp"/>
+      <file href="media/img/env-sparrow.webp"/>
+      <file href="media/img/env-squirrel.webp"/>
+      <file href="media/img/env-tree-big.webp"/>
+      <file href="media/img/env-tree-mid.webp"/>
+      <file href="media/img/env-tree-slim.webp"/>
+      <file href="media/img/env-waste.webp"/>
+      <file href="media/img/fx-abiotic.webp"/>
+      <file href="media/img/fx-air.webp"/>
+      <file href="media/img/fx-biotic.webp"/>
+      <file href="media/img/fx-env.webp"/>
+      <file href="media/img/fx-noise.webp"/>
+      <file href="media/img/fx-pollution.webp"/>
+      <file href="media/img/fx-soil.webp"/>
+      <file href="media/img/fx-water.webp"/>
+      <file href="media/img/garden-bg.webp"/>
+      <file href="media/img/objectives-bg.webp"/>
+      <file href="media/img/plant-all.webp"/>
+      <file href="media/img/rajesh-back.webp"/>
+      <file href="media/img/rajesh-front.webp"/>
+      <file href="media/img/rajesh-left.webp"/>
+      <file href="media/img/rajesh-right.webp"/>
+      <file href="media/img/ravi-back.webp"/>
+      <file href="media/img/ravi-front.webp"/>
+      <file href="media/img/ravi-left.webp"/>
+      <file href="media/img/ravi-right.webp"/>
+      <file href="media/img/threat-air.webp"/>
+      <file href="media/img/threat-noise.webp"/>
+      <file href="media/img/threat-soil.webp"/>
+      <file href="media/img/threat-water.webp"/>
+      <file href="media/img/waste-bg.webp"/>
+      <file href="media/m1s1-abiotic-en.mp3"/>
+      <file href="media/m1s1-biotic-en.mp3"/>
+      <file href="media/m1s1-env-en.mp3"/>
+      <file href="media/m1s1-intro-en.mp3"/>
+      <file href="media/m1s1-pollution-en.mp3"/>
+      <file href="media/m1s2-air-en.mp3"/>
+      <file href="media/m1s2-intro-en.mp3"/>
+      <file href="media/m1s2-noise-en.mp3"/>
+      <file href="media/m1s2-soil-en.mp3"/>
+      <file href="media/m1s2-water-en.mp3"/>
+      <file href="media/m1s3-disposal-en.mp3"/>
+      <file href="media/m1s3-intro-en.mp3"/>
+      <file href="media/m1s4-do-en.mp3"/>
+      <file href="media/m1s4-dont-en.mp3"/>
+      <file href="media/m1s4-intro-en.mp3"/>
+      <file href="media/m2intro-en.mp3"/>
+      <file href="media/m2intro.mp4"/>
+      <file href="media/m2s1-electrocution-en.mp3"/>
+      <file href="media/m2s1-etp-en.mp3"/>
+      <file href="media/m2s1-fire-en.mp3"/>
+      <file href="media/m2s1-intro-en.mp3"/>
+      <file href="media/m2s1-pressure-en.mp3"/>
+      <file href="media/m2s1-spillage-en.mp3"/>
+      <file href="media/m2s2-ert-en.mp3"/>
+      <file href="media/m2s2-fin-en.mp3"/>
+      <file href="media/m2s2-ic-en.mp3"/>
+      <file href="media/m2s2-intro-en.mp3"/>
+      <file href="media/m2s2-med-en.mp3"/>
+      <file href="media/m2s2-ops-en.mp3"/>
+      <file href="media/m2s2-safety-en.mp3"/>
+      <file href="media/m2s2p-essential-en.mp3"/>
+      <file href="media/m2s2p-nonessential-en.mp3"/>
+      <file href="media/m2s3-done-en.mp3"/>
+      <file href="media/m2s3-intro-en.mp3"/>
+      <file href="media/m2s3-step-1.mp4"/>
+      <file href="media/m2s3-step-2.mp4"/>
+      <file href="media/m2s3-step-3.mp4"/>
+      <file href="media/m2s3-step-4.mp4"/>
+      <file href="media/m2s3-step-5.mp4"/>
+      <file href="media/m2s3-step-6.mp4"/>
+      <file href="media/m2s3-step-7.mp4"/>
+      <file href="media/m2s4-essential-en.mp3"/>
+      <file href="media/m2s4-intro-en.mp3"/>
+      <file href="media/m2s4-nonessential-en.mp3"/>
+      <file href="media/m2s4-story-1-en.mp3"/>
+      <file href="media/m2s4-story-1.mp4"/>
+      <file href="media/m2s4-story-2-en.mp3"/>
+      <file href="media/m2s4-story-2.mp4"/>
+      <file href="media/m2s4-story-3-en.mp3"/>
+      <file href="media/m2s4-story-3.mp4"/>
+      <file href="media/m2s4-story-4-en.mp3"/>
+      <file href="media/m2s4-story-4.mp4"/>
+      <file href="media/m2s4-story-5-en.mp3"/>
+      <file href="media/m2s4-story-5.mp4"/>
+      <file href="media/m2s4-story-6-en.mp3"/>
+      <file href="media/m2s4-story-6.mp4"/>
+      <file href="media/m2s5-1-en.mp3"/>
+      <file href="media/m2s5-2-en.mp3"/>
+      <file href="media/m2s5-3-en.mp3"/>
+      <file href="media/m2s5-4-en.mp3"/>
+      <file href="media/m2s5-intro-en.mp3"/>
+      <file href="media/m2s6-fail-en.mp3"/>
+      <file href="media/m2s6-intro-en.mp3"/>
+      <file href="media/m2s6-normal-en.mp3"/>
+      <file href="media/m2s7-intro-en.mp3"/>
+      <file href="media/objectives-intro-en.mp3"/>
+      <file href="media/objectives-m1-en.mp3"/>
+      <file href="media/objectives-m2-en.mp3"/>
+      <file href="media/welcome-en.mp3"/>
+      <file href="media/welcome-hi.mp3"/>
+      <file href="media/welcome.mp4"/>
+    </resource>
+  </resources>
+</manifest>

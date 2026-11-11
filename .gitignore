@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+refresh-package.sh
