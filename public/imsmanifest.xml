@@ -20,13 +20,14 @@
   </organizations>
   <resources>
     <resource identifier="RESOURCE_1" type="webcontent" adlcp:scormtype="sco" href="index.html">
-      <file href="assets/index-B3_BrDtq.css"/>
-      <file href="assets/index-kIH0cdFB.js"/>
+      <file href="assets/index-CUPOH0N0.css"/>
+      <file href="assets/index-CzdDRL-j.js"/>
       <file href="favicon.svg"/>
       <file href="icons.svg"/>
       <file href="index.html"/>
       <file href="media/README.txt"/>
       <file href="media/img/assembly-bg.webp"/>
+      <file href="media/img/assembly-point-photo.webp"/>
       <file href="media/img/bg-gate.webp"/>
       <file href="media/img/disposal-1.webp"/>
       <file href="media/img/disposal-2.webp"/>
